@@ -1,6 +1,6 @@
 # Peugeot-ID-Extractor
 
-This Repository contains different codes to extract the ID numbers for different categories of documents. The input is the Source code of the Peugeot OEM site.
+This Repository contains different codes to extract the ID numbers for different categories of documents. The input is the Source code of the Peugeot OEM site. The output is the Unique ID numbers of each document that pertains to that category.
 
 
 
